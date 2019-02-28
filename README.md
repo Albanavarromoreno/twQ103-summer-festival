@@ -1,10 +1,11 @@
+
 # Título del trabajo
 
 Con este programa se podrá acceder a la organización de un festival y comprar las entradas para todos los conciertos,actuciones individuales y/o acceso al camping. 
 
 ## Integrantes del equipo
 
-Alba Navarro
+Alba Navarro Moreno, alba.navarro.moreno
 Paula de Paz Gómez
 Claudia Alonso Alcobendas, Claudialonsoalc
 
