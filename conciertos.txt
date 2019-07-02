@@ -1,0 +1,3 @@
+Banda1 450 10
+Banda2 350 18
+Banda3 250 20
